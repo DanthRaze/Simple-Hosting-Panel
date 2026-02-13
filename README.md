@@ -1,4 +1,4 @@
-###SIMPLE HOSTING PANEL:
+**SIMPLE HOSTING PANEL:**
 
 
 Features:
